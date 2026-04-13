@@ -135,7 +135,7 @@ local Header = Instance.new("Frame", Main)
 Header.Size = UDim2.new(1, 0, 0, 60); Header.BackgroundTransparency = 1
 local Title = Instance.new("TextLabel", Header)
 Title.Size = UDim2.new(1, 0, 1, 0); Title.Position = UDim2.new(0, 25, 0, 0)
-Title.Text = "NEXUS V12 : MASTER UNIT"; Title.TextColor3 = Color3.new(1, 1, 1); Title.Font = "GothamBold"; Title.TextSize = 22; Title.BackgroundTransparency = 1; Title.TextXAlignment = "Left"
+Title.Text = "NEXUS V12"; Title.TextColor3 = Color3.new(1, 1, 1); Title.Font = "GothamBold"; Title.TextSize = 22; Title.BackgroundTransparency = 1; Title.TextXAlignment = "Left"
 
 local MinBtn = Instance.new("TextButton", Header)
 MinBtn.Size = UDim2.new(0, 45, 0, 45); MinBtn.Position = UDim2.new(1, -60, 0, 7)
